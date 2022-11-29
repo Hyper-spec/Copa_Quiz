@@ -1,0 +1,153 @@
+{
+    "bg": "https://images5.alphacoders.com/128/1288612.jpg",
+    "logo": "https://th.bing.com/th/id/Rbd3be680a0e64f0399c1f60a855cd6fc?rik=xO0b0fQzADHOvA&riu=http%3a%2f%2fwww.vrse-vr.com%2fassets%2fimages%2flogo_jw.png&ehk=dZTdsC%2fG2OU09BgZJHim0wH5GNEbIvtWyObR8PWj0Lg%3d&risl=&pid=ImgRaw",
+    "title": "Jurassic Park/World quiz",
+    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/QBMrpkBiaOX90n3rbD/giphy.gif",
+        "title": "Quais são os maiores campeões da Copa do Mundo?",
+        "description": "Que começe a partida!",
+        "answer": 3,
+        "alternatives": [
+          "França e Dinamarca",
+          "Brasil e Itália",
+          "Alemanha e Argentina",
+          "Brasil e Alemanha"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/XHLqsTKinx4PlhEI3T/giphy.gif",
+        "title": "Qual o segundo maior artilheiro da história das copas do mundo?",
+        "description": "Gooooooooooool!",
+        "answer": 1,
+        "alternatives": [
+          "Neymar",
+          "Ronaldo",
+          "Miroslav Klose",
+          "Mbappé"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/p37zQEvmBhwLipmiqV/giphy.gif",
+        "title": "Quantas vezes a copa do mundo foi sediada no Brasil?",
+        "description": "Status: em um relacionamento sério com a Copa do Mundo!",
+        "answer": 1,
+        "alternatives": [
+          "3 vezes",
+          "2 vezes",
+          "1 vez, em 2014",
+          "6 vezes"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/emBC6XCeiZEtKfGqoN/giphy.gif",
+        "title": "Quando e onde foi sediada a primeira copa do mundo?",
+        "description": "O passado é glória, o presente é história",
+        "answer": 2,
+        "alternatives": [
+          "1914, Brasil",
+          "1918, Estados Unidos",
+          "1930, Uruguai",
+          "1926, Austrália"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/4JUadKw9UKT6i461rV/giphy.gif",
+        "title": "Qual foi o primeiro mascote da história das copas?",
+        "description": "Próximo mascote da copa no Brasil: Canarinho Pistola",
+        "answer": 3,
+        "alternatives": [
+          "Gauchito",
+          "Footix",
+          "Fuleco",
+          "Willie"
+        ]
+      },
+      {
+        "image":"https://media.giphy.com/media/ftdAK8G3JXVFd6zknO/giphy.gif",
+        "title": "Quais foram as edições em que o Brasil foi campeão?",
+        "description": "Rumo ao Hexa!",
+        "answer": 0,
+        "alternatives": [
+          "1958, 1962, 1970, 1994, 2002",
+          "1958, 1970, 1974, 1992, 2006",
+          "1958, 1966, 1970, 1994, 2002",
+          "1958, 1962, 1970, 1994, 2006"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/ApD1UsWcVdJXmFLnCP/giphy.gif",
+        "title": "Quantos gols Ronaldo completou em 2002?",
+        "description": "O fenômeno",
+        "answer": 2,
+        "alternatives": [
+          "10 gols",
+          "9 gols",
+          "8 gols",
+          "7 gols"
+        ]
+
+
+      },
+      {
+        "image": "https://media.giphy.com/media/1zkpr73f5CI33JO06e/giphy.gif",
+        "title": "Quais destes dinossauros não residem na Isla Nublar?",
+        "description": "The Chaos Theory",
+        "answer": 3,
+        "alternatives": [
+          "T-Rex",
+          "Galinimus",
+          "Triceratops",
+          "Espinossauro"
+        ]
+
+      },
+      {
+        "image": "https://media.giphy.com/media/TFxYl2lYJEu9kY1lEb/giphy.gif",
+        "title": "Quando ocorreu o despertar do Monte Sibo?",
+        "description": "The fall of dinosaurs",
+        "answer": 2,
+        "alternatives": [
+          "2015",
+          "2020",
+          "2018",
+          "2006"
+        ]
+
+      },
+      {
+        "image": "https://media.giphy.com/media/hu1TLAaubiak9S4GT6/giphy.gif",
+        "title": "Qual foi a prmeira atração apresentada no Jurassic Park?",
+        "description": "O que eles tem aí, o King Kong?",
+        "answer": 0,
+        "alternatives": [
+          "Cerca dos Dilofossauros",
+          "Cerca do Tiranossauro",
+          "Cerca dos Velociraptors",
+          "Cerca dos Braquiossauros"
+        ]
+
+      }
+
+
+
+    ],
+    "external": [
+        "https://aluraquiz-copadomundo.antonionarcilio.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#003C66",
+        "yellow": "#F5DC00",
+        "widget": "#00477A",
+        "secondary": "#3FCA4F",
+        "light-gray": "#b2bec3",
+        "mainBg": "#171B35",
+        "contrastText": "#FFFFFF",
+        "wrong": "rgb(234, 32, 39)",
+        "success": "#4cd137"
+      },
+      "borderRadius": "4px"
+    }
+  }
